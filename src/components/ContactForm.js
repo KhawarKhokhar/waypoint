@@ -158,7 +158,7 @@ const ContactForm = () => {
                               fontWeight: "500",
                             }}
                           >
-                            Terms of Use
+                            Terms and Conditions
                           </a>{" "}
                           and{" "}
                           <a

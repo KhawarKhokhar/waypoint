@@ -141,12 +141,12 @@ const ContactMain = () => {
                       GENERAL COMMUNICATIONS &amp; MARKETING text messages, and
                       phone calls from Waypoint Assests Realty. I also agree to the{" "}
                       <a
-                        href="/privacy"
+                        href="/terms"
                         target="_blank"
                         rel="noopener noreferrer"
                         onClick={(e) => e.stopPropagation()}
                       >
-                        Terms of Use
+                        Terms and Conditions
                       </a>{" "}
                       and{" "}
                       <a

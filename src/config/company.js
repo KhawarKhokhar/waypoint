@@ -15,7 +15,7 @@ const company = {
 
   // --- Contact ---
   phone: "(214) 896-5370",
-  email: "info@waypointassets.com",
+  email: "info@waypointassetsrealty.com",
   address: "30 N Gould St Ste R, Sheridan, WY 82801",
   hours: {
     weekdays: "Mon–Fri: 9:00 AM – 6:00 PM",
